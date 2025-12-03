@@ -53,15 +53,21 @@
 
 ## 🌟 Featured Projects
 
+Coming soon! 프로젝트를 준비 중입니다.
+
 <!-- 프로젝트가 생기면 여기에 추가해주세요 -->
-<!-- Add your featured projects here -->
+<!-- Add your featured projects here when available -->
 
 ## 📫 How to Reach Me
 
-- GitHub: [@nanamix](https://github.com/nanamix)
-- Email: [Your Email]
-- Blog: [Your Blog URL]
-- LinkedIn: [Your LinkedIn]
+Feel free to connect with me! 연락 방법:
+
+- 💼 GitHub: [@nanamix](https://github.com/nanamix)
+- 📧 Email: [Add your email]
+- 📝 Blog: [Add your blog URL]
+- 🔗 LinkedIn: [Add your LinkedIn profile]
+
+<!-- Update the above links with your actual contact information -->
 
 ## 💭 Quote
 
