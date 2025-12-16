@@ -63,9 +63,9 @@ Coming soon! 프로젝트를 준비 중입니다.
 Feel free to connect with me! 연락 방법:
 
 - 💼 GitHub: [@nanamix](https://github.com/nanamix)
-- 📧 Email: [Add your email]
+- 📧 Email: jyha81@gmail.com
 - 📝 Blog: [Add your blog URL]
-- 🔗 LinkedIn: [Add your LinkedIn profile]
+- 🔗 LinkedIn: www.linkedin.com/in/jyha81
 
 <!-- Update the above links with your actual contact information -->
 
