@@ -64,7 +64,6 @@ Feel free to connect with me! 연락 방법:
 
 - 💼 GitHub: [@nanamix](https://github.com/nanamix)
 - 📧 Email: jyha81@gmail.com
-- 📝 Blog: [Add your blog URL]
 - 🔗 LinkedIn: www.linkedin.com/in/jyha81
 
 <!-- Update the above links with your actual contact information -->
@@ -74,10 +73,6 @@ Feel free to connect with me! 연락 방법:
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nanamix&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   
