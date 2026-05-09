@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanamix&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanamix&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
