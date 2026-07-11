@@ -118,6 +118,4 @@
 
      ---
 
-     <div align="center">
-       🛠️ <b>Building reliable systems, one improvement at a time.</b>
-      </div>
+<div align="center">🛠️ <b>Building reliable systems, one improvement at a time.</b></div>
