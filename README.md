@@ -69,15 +69,9 @@
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nanamix&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="nanamix's GitHub Streak" />
-</div>
 
-<br />
 
-<div align="center">
-  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=nanamix&theme=tokyonight&hide_border=true&area=true" alt="nanamix's Activity Graph" />
-</div>
+
 
 ---
 
